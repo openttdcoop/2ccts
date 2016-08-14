@@ -27,8 +27,8 @@ STR_PARAM_TIMES_8                   :8
 STR_PARAM_TIMES_16                  :16
 
 #region parameters
-STR_PARAM_CONCEPT						:Concept vehicles (future feature, not yet available)
-STR_PARAM_CONCEPT_DESC					:Use concept vehicles (this parameter has no function currently)
+STR_PARAM_CONCEPT						:Concept vehicles
+STR_PARAM_CONCEPT_DESC					:Use concept vehicles
 STR_PARAM_REGION_AFRICA					:Africa
 STR_PARAM_REGION_AFRICA_DESC			:Use vehicles from Africa
 STR_PARAM_REGION_NORTHAMERICA			:North America
@@ -643,6 +643,7 @@ str_emu_Russia_RZD_ES1_Lastochka :RZD ES1 'Lastochka' (EMU)
 str_emu_Austria_WESTbahn_4010_KISS :WESTbahn 4010 'KISS' (EMU)
 str_emu_Croatia_HZ_6112 :HZ 6112 (EMU)
 str_emu_China_Railways_CHR380A :China Railways CHR380A(EMU)
+str_emu_Europe_Sureot :Sureot (EMU)
 
 #Single Unit Metro
 str_mtro_USA_Brooklyn_Union_Gate_Car					:Brooklyn Union Gate Car (Single Unit Metro)
